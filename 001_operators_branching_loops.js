@@ -3,7 +3,7 @@
 // *1
 
 function addFiveNum(num1, num2, num3, num4, num5) {
-    return num1 + num2 + num3 + num4 + num5;
+    return (num1 + num2 + num3 + num4 + num5);
 }
 
 console.log(addFiveNum(5, 13, 7, 21, 48));
